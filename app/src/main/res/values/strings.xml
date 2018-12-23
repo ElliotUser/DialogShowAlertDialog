@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogShow.AlertDialog</string>
+    <string name="ShowDialog">Показать диалог</string>
+</resources>
